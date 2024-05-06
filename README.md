@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:103ce7,100:64e9ff&text=Hello+there!&fontColor=f0f0f0&fontSize=60&fontAlignY=35&descAlignY=60&descAlign=50&animation=scaleIn" alt="Diego Tech" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:103ce7,100:64e9ff&text=Hello+there!+This+is:&fontColor=f0f0f0&fontSize=45&fontAlignY=35&descAlignY=60&descAlign=50&animation=scaleIn" alt="Diego Tech" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:103ce7,100:64e9ff&text=Diego%20Tech&fontColor=ddd&fontSize=60&fontAlignY=50&descAlignY=60&descAlign=50&animation=scaleIn&section=header" alt="Diego Tech" />
@@ -46,7 +46,9 @@ If you are looking for someone who can take your projects to the next level, loo
   <img src='https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white'>
   <img src='https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white'>
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black'>
+  <img src='https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white'>
   <img src='https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black'>
+  <img src='https://img.shields.io/badge/React%20native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black'>
   <img src='https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white'>
   <img src='https://img.shields.io/badge/-next%20js-black?style=for-the-badge&logo=nextdotjs&logoColor=white'>
   <img src='https://img.shields.io/badge/-tailwind%20css-0099ff?style=for-the-badge&logo=tailwindcss&logoColor=white'>
@@ -68,7 +70,9 @@ If you are looking for someone who can take your projects to the next level, loo
 
 <div align="center">
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black'><br />
+  <img src='https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white'><br />
   <img src='https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black'><br />
+  <img src='https://img.shields.io/badge/React%20native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black'><br />
   <img src='https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white'><br />
   <img src='https://img.shields.io/badge/-next%20js-black?style=for-the-badge&logo=nextdotjs&logoColor=white'><br />
   <img src='https://img.shields.io/badge/-tailwind%20css-0099ff?style=for-the-badge&logo=tailwindcss&logoColor=white'>
