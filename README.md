@@ -78,4 +78,12 @@ If you are looking for someone who can take your projects to the next level, loo
   <img src='https://img.shields.io/badge/-tailwind%20css-0099ff?style=for-the-badge&logo=tailwindcss&logoColor=white'>
 </div>
 
+#
+
+<div align="center">
+  <img width="1000" src="assets/github-snake.svg" alt="Github Snake" />
+</div>
+
+#
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:103ce7,100:64e9ff&fontColor=f0f0f0&fontSize=60&fontAlignY=35&descAlignY=60&descAlign=50&animation=scaleIn&section=footer" alt="Diego Tech" />
