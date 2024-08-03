@@ -18,9 +18,7 @@
 
 <br />
 
-<video min-width="350" max-width="350" controls align="right">
-  <source src="assets/computer.mp4" type="video/mp4">
-</video>
+<img src="assets/computer.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Diego Tech Conputer Image" />
 
 <p align="left">
   Hello! I am a passionate frontend developer with experience in web and mobile development. My goal is to create intuitive and attractive digital experiences that are both functional and visually stunning.
