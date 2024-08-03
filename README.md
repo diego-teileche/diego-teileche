@@ -18,13 +18,19 @@
 
 <br />
 
-Hello! I am a passionate frontend developer with experience in web and mobile development. My goal is to create intuitive and attractive digital experiences that are both functional and visually stunning.
+<video min-width="350" max-width="350" controls align="right">
+  <source src="assets/computer.mp4" type="video/mp4">
+</video>
 
-My experience spans a wide range of modern technologies, including HTML5, CSS3, JavaScript (ES6+), and popular frameworks like React.js. In mobile development, I have experience with React Native, which allows me to create high-performance mobile applications for multiple platforms.
+<p align="left">
+  Hello! I am a passionate frontend developer with experience in web and mobile development. My goal is to create intuitive and attractive digital experiences that are both functional and visually stunning.
 
-I am passionate about keeping up to date with the latest trends and technologies in the world of web and mobile development. I firmly believe in writing clean, efficient, and maintainable code, and I am always looking for ways to improve and perfect my skills.
+  My experience spans a wide range of modern technologies, including HTML5, CSS3, JavaScript (ES6+), and popular frameworks like React.js. In mobile development, I have experience with React Native, which allows me to create high-performance mobile applications for multiple platforms.
 
-If you are looking for someone who can take your projects to the next level, look no further! I am excited about the opportunity to work on challenging projects and collaborate with talented teams. If you like what you see, do not hesitate to contact me.
+  I am passionate about keeping up to date with the latest trends and technologies in the world of web and mobile development. I firmly believe in writing clean, efficient, and maintainable code, and I am always looking for ways to improve and perfect my skills.
+
+  If you are looking for someone who can take your projects to the next level, look no further! I am excited about the opportunity to work on challenging projects and collaborate with talented teams. If you like what you see, do not hesitate to contact me.
+</p>
 
 #
 
